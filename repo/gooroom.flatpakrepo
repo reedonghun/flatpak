@@ -1,6 +1,6 @@
 [Flatpak Repo]
 Title=gooroom
-Url=https://reedonghun.github.io/flatpak/repo
+Url=https://dl.flathub.org/repo/
 Homepage=https://reedonghun.github.io/flatpak/
 Comment=Central repository of Flatpak applications
 Description=Central repository of Flatpak applications
